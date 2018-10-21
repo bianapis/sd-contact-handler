@@ -1,0 +1,13 @@
+{
+  "customerServicingRequestRecord" : "Record 1",
+  "customerContactRecord" : "Record 1",
+  "servicingPositionReference" : "SPR48582",
+  "customerContactDialogueRecord" : {},
+  "customerServicingSessionFromTo" : "2012-12-20 17:25:32 to 2012-12-20 18:01:32",
+  "servicingSessionReference" : "SSR785465",
+  "inboundContactReference" : "ICR47856",
+  "customerContactDialogueRecordReference" : "CCDRR5459",
+  "servicingResourceReference" : "SRR589623",
+  "customerServicingSessionResult" : "Success",
+  "contactHandlingServiceSessionReference" : "CHSSR7856"
+}

@@ -1,0 +1,9 @@
+{
+  "eBranchOperatingSessionReference" : "EBROSR88560020024",
+  "advancedVoiceServiceOperatingSessionReference" : "EBVSR76025023045",
+  "contactHandlingServiceReportType" : "Type 1",
+  "contactHandlingServiceStatus" : "Active",
+  "contactHandlingServiceSessionReference" : "CHSSR4568",
+  "contactHandlingServiceReport" : "Report content",
+  "contactHandlingServiceConfigurationSetup" : "Configuration 1"
+}

@@ -1,0 +1,16 @@
+{
+  "eBranchOperatingSessionReference" : "EBOSR7854",
+  "customerContactRecordReference" : "CCRR4862",
+  "customerContactRecord" : {},
+  "advancedVoiceServiceOperatingSessionReference" : "AVSOSR485",
+  "customerContactDialogueRecordReference" : "CCDRR4782",
+  "servicingResourceReference" : "SRR78142",
+  "customerServicingSessionResult" : "Success",
+  "servicingPositionReference" : "SPR47856",
+  "customerContactDialogueRecord" : {},
+  "customerServicingSessionFromTo" : "2012-12-20 17:25:32 to 2012-12-20 18:01:32",
+  "advancedVoiceServiceOperatingSessionConnectionRecord" : {},
+  "contactHandlingServiceSessionReference" : "CHSSR8685",
+  "eBranchOperatingSessionConnectionRecord" : {},
+  "outboundContactReference" : "OCR58963"
+}

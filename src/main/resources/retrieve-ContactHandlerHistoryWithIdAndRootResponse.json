@@ -1,0 +1,13 @@
+{
+  "customerContactStartEndDate" : "2012-12-20 17:25:32 47ms",
+  "customerContactResult" : "Success",
+  "customerContactRecordReference" : "CCRR75233",
+  "channelActivityHistoryRecordReference" : "CAHRR71136",
+  "customerContactRecord" : {},
+  "inboundContactReference" : "IBCR47826",
+  "customerReference" : "CR525824",
+  "customerContactHistoryRecordingReference" : "CCHRR4785",
+  "customerContactActivityRecord" : {},
+  "contactHandlingServiceSessionReference" : "CHSSR7852",
+  "outboundContactReference" : "OBCR475263"
+}

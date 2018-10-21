@@ -1,0 +1,10 @@
+{
+  "customerContactAuthenticationLevel" : "Level 1",
+  "customerContactRecord" : {},
+  "inboundContactReference" : "IBCR7895",
+  "contactReference" : "456987987",
+  "contactHandlingServiceSessionReference" : "CHSSR4568",
+  "customerContactAuthenticationRecordReference" : "CCARR5896",
+  "customerContactAuthenticationRecord" : {},
+  "outboundContactReference" : "OBCR7895"
+}
